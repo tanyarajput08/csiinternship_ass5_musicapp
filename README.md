@@ -23,5 +23,6 @@ GeetBeats is a feature-rich modern music streaming web app inspired by Spotify, 
 - **API**: Spotify Web API (OAuth2-based)
 - **Tooling**: Vite, PostCSS
 
+## screenshots
 
-
+[main discover page](![Image](https://github.com/user-attachments/assets/75b4c979-53d4-426b-a72d-8f2e1d0dbbbe)[](url))
